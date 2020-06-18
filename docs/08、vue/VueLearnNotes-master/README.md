@@ -2,7 +2,7 @@
 
 Vue学习笔记
 
-- [01-ES6补充](./docs/08、vue/VueLearnNotes-master/01-ES6补充/01-ES6补充md)
+- [01-ES6补充](./docs/08、vue/VueLearnNotes-master/01-ES6补充/01-ES6补充.md)
 - [02-HelloVue](./docs/08、vue/VueLearnNotes-master/02-HelloVue/02-HelloVue.md )
 - [03-插值操作](./docs/08、vue/VueLearnNotes-master/03-插值操作/03-插值操作.md )
 - [04-动态绑定属性](./docs/08、vue/VueLearnNotes-master/04-动态绑定属性/04-动态绑定属性.md)
