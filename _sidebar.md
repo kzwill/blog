@@ -3,12 +3,12 @@
  * @Author       : kangzhiwei
  * @Date         : 2020-12-15 10:19:18
  * @LastEditors  : kangzhiwei
- * @LastEditTime : 2020-12-15 10:24:57
+ * @LastEditTime : 2020-12-15 10:48:18
 -->
 
 - XXV
 
-  - [XXV常用技能点](./docs/00、xxv/01、xxv.md)
+  - [XXV 常用技能点](./docs/00、xxv/xxv.md)
 
 - Mysql
 
